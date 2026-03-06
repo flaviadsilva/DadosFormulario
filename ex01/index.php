@@ -23,8 +23,7 @@ if(isset($_POST["nome"])){
     $nome = $_POST["nome"];
 
     echo "<p class='resultado'>Olá, $nome!</p>";
-
-    echo "eu amo amondegas!"
+ echo
 }
 ?>
 
